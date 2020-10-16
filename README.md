@@ -1,27 +1,12 @@
-# Spotiapp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.4.
+# SpotiApp
 
-## Development server
+------------
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Proyecto para escuchar música por medio de la API de spotify, escrito en **Angular**.
 
-## Code scaffolding
+Se debe generar un nuevo token con postman desde la página de spotify development (https://developer.spotify.com/), ademas para generar el token es necesario grant_type, client_id y client_secret Post: https://accounts.spotify.com/api/token en el service.
+## Pagina Principal
+<a href="https://imgur.com/AJogRSA"><img src="https://i.imgur.com/AJogRSA.jpg" title="source: imgur.com" /></a>
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+<a href="https://imgur.com/ri3ehxZ"><img src="https://i.imgur.com/ri3ehxZ.jpg" title="source: imgur.com" /></a>
